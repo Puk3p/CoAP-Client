@@ -1,5 +1,5 @@
 SERVER_CONFIG = {
-    "host": "136.243.153.183", #server VPS altele user
+    "host": "146.272.253.156", #server VPS altele user
     "port": 8080                #port provizoriu
 }
 
