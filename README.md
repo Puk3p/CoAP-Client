@@ -15,7 +15,7 @@
 ### 📄 Documentație
 Autorii:  
 - Arama Luigi-Emanuel  
-- Lupu Gheorghe
+- Lupu George
 
 ## Cuprins
 - [📝 Descriere](#-descriere)
